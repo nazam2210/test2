@@ -1,5 +1,5 @@
 SELECT concat (round
-                  ( select count(*) from patients where gender = 'M') / cast(count(*) as float)) )*100 as percent_of_male_patients from patients 
+                  ( select count(*) from patients where gender = 'M') / cast(count(*) as float)) )*100 as percent_of_male_patients from patienqweqweqweqwe 
 ______________________________________________________________________________
 
 select 
